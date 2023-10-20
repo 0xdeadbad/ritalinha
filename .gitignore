@@ -1,0 +1,17 @@
+ritalinha
+common.mk
+config.mk
+compile_commands.json
+clean_commands.json
+Makefile
+
+obj
+.cache
+.vscode
+src/*/Makefile
+src/*/config.mk
+template/tmp/
+
+!3rdparty/common.mk
+!3rdparty/config.mk
+!3rdparty/Makefile

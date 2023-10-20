@@ -1,0 +1,2 @@
+${MODULE}_OBJ := ${OBJS}
+${MODULE}_DEPS := ${DEPS}

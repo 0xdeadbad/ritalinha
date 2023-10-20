@@ -1,0 +1,2 @@
+cJSON_OBJ := cJSON.o
+cJSON_DEPS := cJSON.h
